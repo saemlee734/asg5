@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🌌 Space Explorer - CSE160 ASG5</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #000;
+      color: #fff;
+    }
+    #info {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: rgba(0, 0, 0, 0.7);
+      padding: 12px;
+      border-radius: 8px;
+      max-width: 280px;
+      z-index: 1;
+    }
+    #info h1 {
+      margin: 0 0 10px;
+      font-size: 20px;
+      color: #ffd700;
+    }
+    #info p {
+      margin: 4px 0;
+      font-size: 14px;
+    }
+    #info ul {
+      padding-left: 20px;
+      margin: 6px 0;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div id="info">
+    <h1>🌌 Space Explorer</h1>
+    <p><strong>Sabrina Lee</strong></p>
+    <p>CSE160 ASG5</p>
+    <p>saemlee@ucsc.edu</p>
+    <h3>Controls</h3>
+    <ul>
+      <li>🖱️ Click to move the rocket</li>
+      <li>🌀 Drag to orbit around the scene</li>
+      <li>🔍 Scroll to zoom in/out</li>
+    </ul>
+  </div>
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
