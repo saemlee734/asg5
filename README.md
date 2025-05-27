@@ -1,5 +1,7 @@
 # 🌌 Space Explorer - Three.js Scene
 
+https://saemlee734.github.io/asg5/asg5.html
+
 This project is a space-themed 3D scene built using [Three.js](https://threejs.org/). It features a fully navigable solar system with dynamic elements such as a player-controlled rocket, meteor showers, orbiting satellites, and more.
 
 ##  Features
