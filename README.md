@@ -63,6 +63,7 @@ project-root/
 * "[Space Station](https://skfb.ly/ozA6I)" by re1monsen is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 * "[Solar System](https://skfb.ly/6ryJH)" by valmirt is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 * Background visuals from [Vecteezy - Free Space Panorama Photos](https://www.vecteezy.com/free-photos/space-panorama)
+* - Used Chatgpt and Deepseek
 
 ---
 
